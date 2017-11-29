@@ -13,3 +13,12 @@ img {
 body {
   background-image: url("../images/leaves.jpg");
 }
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: red;
+}
+.column {
+  width: 350;
+  float: left;
+}
