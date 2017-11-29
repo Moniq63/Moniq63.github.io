@@ -1,5 +1,15 @@
+
 h1{
   text-align: center;
-  color: #0000ff;
+  color: #e2e2ee;
   font-weight: bolder;
+}
+p {
+  color: white;
+}
+img {
+  float: left;
+}
+body {
+  background-image: url("../images/leaves.jpg");
 }
